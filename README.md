@@ -14,5 +14,4 @@
   <br>
 </div>
 <br>
-# Cat gif in the Matrix !
 ![](https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/CatInTheMatrix.gif)
