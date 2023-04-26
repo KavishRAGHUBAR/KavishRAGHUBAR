@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
- <br>
-![](https://i.imgur.com/1USrlIG.gif)
- <br>
+  <br>
+  <img src="https://i.imgur.com/1USrlIG.gif"/>
+  <br>
 </div>
