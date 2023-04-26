@@ -28,11 +28,11 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
+        # set the snake color
+        color_snake: "orange"
         with:
           github_user_name: KavishRAGHUBAR
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          # set the snake color
-          colorSnake: "red"
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
         
