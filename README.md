@@ -10,9 +10,8 @@
   <br>
   <img alt="snake eating my contribution" src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/output/github-contribution-grid-snake.svg">
   <br>
-  <br>
 </div>
-
+<br>
 <div align="center">
   <br>
   <img src="https://i.imgur.com/1USrlIG.gif"/>
