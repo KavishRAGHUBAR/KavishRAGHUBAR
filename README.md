@@ -11,7 +11,6 @@
   <img alt="snake eating my contribution" src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
-  <br>
 </div>
 <br>
-![alt text](https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/CatInTheMatrix.gif)
+![](https://i.imgur.com/1USrlIG.gif)
