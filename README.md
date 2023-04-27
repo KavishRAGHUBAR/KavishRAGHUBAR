@@ -8,7 +8,7 @@
 <div align="center">
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <br>
-  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/raw/output/github-snake-dark.svg" alt="snake">
+  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/raw/output/github-snake.svg" alt="snake">
   <br>
 </div>
 <br>
