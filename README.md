@@ -15,7 +15,7 @@
 <div align="center">
 
   <h2> Stone Cold ! </h2>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZiNDRhMTY2Y2JkNjAwYjBiMjBlZWUwY2MxZTk1MmQ4ZDlkNGIyNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/nDMyoNRkCesJdZAuuL/giphy-downsized-large.gif">
+  <img src="https://imgur.com/a/YJQN1DF">
   
 </div>
 
