@@ -15,6 +15,6 @@
 <div align="center">
 
   <h2> Stone Cold ! </h2>
-  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/CatInTheMatrix.gif?raw=true">
+  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/stone_cold.gif?raw=true">
   
 </div>
