@@ -15,6 +15,6 @@
 <div align="center">
 
   <h2> Stone Cold ! </h2>
-  <img src="https://i.giphy.com/media/nDMyoNRkCesJdZAuuL/giphy-downsized-large.gif">
+  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/CatInTheMatrix.gif?raw=true">
   
 </div>
