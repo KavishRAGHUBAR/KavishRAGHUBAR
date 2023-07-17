@@ -6,7 +6,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # every 24 hours
+    # every 12 hours
     - cron: "0 */24 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
@@ -39,7 +39,7 @@ jobs:
 
       # Push the changes
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
