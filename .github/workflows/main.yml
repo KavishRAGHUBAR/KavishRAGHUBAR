@@ -21,7 +21,7 @@ jobs:
 
     steps:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - uses: Platane/snk@v2
