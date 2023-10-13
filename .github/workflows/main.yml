@@ -22,10 +22,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
-      # Generates a snake game from a GitHub user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - uses: Platane/snk@v3
+      # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: KavishRAGHUBAR
@@ -34,13 +34,6 @@ jobs:
             dist/github-snake-dark.svg?color_snake=red&color_dots=#263344,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/ocean.gif?color_snake=red&color_dots=#263344,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       # palette=github-dark?
-      - name: Debugging
-        run: |
-          echo "GitHub User Name: ${{ steps.snake-gif.outputs.github_user_name }}"
-          echo "Outputs: ${{ steps.snake-gif.outputs.outputs }}"
-          echo "GitHub Token: ${{ secrets.GITHUB_TOKEN }}"
-        # You can add more debug output as needed
-
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
@@ -59,3 +52,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
