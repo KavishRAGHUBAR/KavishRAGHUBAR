@@ -1,9 +1,9 @@
 name: generate animation
 
 on:
-  # run automatically every 3 days - we saving energy for the planet !
   schedule:
-    - cron: "0 */72 * * *" 
+    # every 36 hours for the planet xD
+    - cron: "0 */36 * * *"
   
   # allows to manually run the job at any time
   workflow_dispatch:
