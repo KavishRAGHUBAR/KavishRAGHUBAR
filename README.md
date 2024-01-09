@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <h2> Cat in the Matrix ! </h2>
-  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/CatInTheMatrix.gif?raw=true">
+  <h2> Pulp Fiction Dance Scene ! </h2>
+  <img src="https://github.com/KavishRAGHUBAR/KavishRAGHUBAR/blob/main/Pulp_Fiction_Dance_Scene_HQ.gif">
   
 </div>
